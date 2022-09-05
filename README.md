@@ -1,2 +1,2 @@
 # GANs
-I will release gans which i realize by myself.
+I will release gans which I realize by myself.
